@@ -7,8 +7,8 @@
 ## Setup
 
 ```
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Polyeit/cit3102-m5-usertable.git
+cd cit3102-m5-usertable>
 composer install
 cp .env.example .env
 php artisan key:generate
